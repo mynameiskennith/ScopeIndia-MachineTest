@@ -9,7 +9,7 @@ public class Main
         
         if(productChoice==1){
             System.out.println("Product Created");
-        }else if(productChoice==1){
+        }else if(productChoice==){
             
         }
     }
@@ -26,8 +26,7 @@ public class Main
     }
     
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-	Scanner sc = new Scanner(System.in);
+	    Scanner sc = new Scanner(System.in);
 		
 		int choice1;
 		
